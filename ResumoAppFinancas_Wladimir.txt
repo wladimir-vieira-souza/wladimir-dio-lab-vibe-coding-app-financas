@@ -1,0 +1,2 @@
+#resumo do conceito do seu app##
+O APP tem o objetivo de auxiliar os usuários para a conscientização sobre a necessidade de identificar receitas e despesas para identificar onde os gastos são concentrados e quais opções de receitas. Além de indicar, a cada lançamento, o saldo disopnível para nortear futuras compras ou incentivar a diversificação das receitas.
